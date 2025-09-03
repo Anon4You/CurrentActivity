@@ -26,5 +26,5 @@ CurrentActivity is a simple Android app that monitors and displays the package a
 4. Tap the window to copy details.
 
 ## License
-MIT License
+[BSD-3-Clause license](LICENCE)
 
