@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Current Activity</string>
+    <string name="enable_floating_window">Enable Floating Window</string>
+    <string name="overlay_permission_required">Overlay permission required</string>
+    <string name="accessibility_service_required">Accessibility service required</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="enable_accessibility">Enable Accessibility</string>
+    <string name="notification_channel_name">Floating Service</string>
+    <string name="notification_title">Current Activity Detector</string>
+    <string name="notification_text">Floating window is active</string>
+    <string name="copy_to_clipboard">Copied to clipboard</string>
+    <string name="package_copied">Package name copied</string>
+    <string name="activity_copied">Activity name copied</string>
+    <string name="no_content_to_copy">No content to copy</string>
+
+    <!-- New strings for menu -->
+    <string name="menu_contact">Contact Developer</string>
+    <string name="menu_source">Source Code</string>
+    <string name="menu_about">About</string>
+    <string name="about_title">About Current Activity</string>
+    <string name="about_message">This app displays the current foreground app\'s package name and activity name in a floating window.\n\nYou can:\n• See real-time app/activity info\n• Drag the floating window anywhere\n• Click to copy package/activity names\n• Toggle on/off with the switch\n\nMade with 💗 By Alienkrishn</string>
+    <string name="ok">OK</string>
+    <string name="open_link_error">Cannot open link. Please check your browser.</string>
+</resources>
